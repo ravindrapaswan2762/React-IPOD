@@ -1,3 +1,5 @@
+<img src="ReactIPOD.gif" width="400">
+
 # iPod Classic Replica
 
 ## Description
