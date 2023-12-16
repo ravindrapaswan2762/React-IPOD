@@ -1,4 +1,4 @@
-<img src="ReactIPOD.gif" width="400">
+<img src="ReactIPOD.gif">
 
 # iPod Classic Replica
 
